@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://warum48.github.io/csb-49dzi6/static/css/main.9541d5f1.chunk.css",
+    "main.js": "https://warum48.github.io/csb-49dzi6/static/js/main.5aafa1e4.chunk.js",
+    "main.js.map": "https://warum48.github.io/csb-49dzi6/static/js/main.5aafa1e4.chunk.js.map",
+    "runtime-main.js": "https://warum48.github.io/csb-49dzi6/static/js/runtime-main.0bd579bf.js",
+    "runtime-main.js.map": "https://warum48.github.io/csb-49dzi6/static/js/runtime-main.0bd579bf.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://warum48.github.io/csb-49dzi6/static/css/2.cbedb215.chunk.css",
+    "static/js/2.f04f4c8d.chunk.js": "https://warum48.github.io/csb-49dzi6/static/js/2.f04f4c8d.chunk.js",
+    "static/js/2.f04f4c8d.chunk.js.map": "https://warum48.github.io/csb-49dzi6/static/js/2.f04f4c8d.chunk.js.map",
+    "index.html": "https://warum48.github.io/csb-49dzi6/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://warum48.github.io/csb-49dzi6/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.9541d5f1.chunk.css.map": "https://warum48.github.io/csb-49dzi6/static/css/main.9541d5f1.chunk.css.map",
+    "static/js/2.f04f4c8d.chunk.js.LICENSE.txt": "https://warum48.github.io/csb-49dzi6/static/js/2.f04f4c8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd579bf.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.f04f4c8d.chunk.js",
+    "static/css/main.9541d5f1.chunk.css",
+    "static/js/main.5aafa1e4.chunk.js"
+  ]
+}
